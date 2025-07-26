@@ -1,9 +1,6 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "ruyi": {
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "name": "如意资源"
     },
     "tyyszy": {
       "api": "https://tyyszy.com/api.php/provide/vod",
