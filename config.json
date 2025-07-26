@@ -1,7 +1,6 @@
 {
   "cache_time": 7200,
   "api_site": {
-    },
     "tyyszy": {
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源"
